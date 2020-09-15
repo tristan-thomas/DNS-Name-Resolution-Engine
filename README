@@ -1,0 +1,8 @@
+To build:
+	Type 'make'. Makefile will compile and link all necessary modules and produce exectuable-'multi-lookup'
+To Run:
+	Type './multi-lookup' followed by '<# requester> <# resolver> <requester log> <resolver log> [ <data file> ...]'
+
+	ex: ./multi-lookup 2 2 serviced.txt results.txt names1.txt names2.txt names3.txt
+
+The Makefile should do all necessary building. In addition, using 'make clean' will remove any files generated during the course of building and running the program.

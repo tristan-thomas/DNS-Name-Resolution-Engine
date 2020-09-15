@@ -1,0 +1,44 @@
+Number for requester thread = 1
+Number for resolver thread = 1
+Total run time: [2000971] ticks
+Thread <19187> processed [5] files.
+
+Number for requester thread = 1
+Number for resolver thread = 3
+Total run time: [712839] ticks
+Thread <19187> processed [5] files.
+
+Number for requester thread = 3
+Number for resolver thread = 1
+Total run time: [939321] ticks
+Thread <19348> processed [2] files.
+Thread <19350> processed [1] files.
+Thread <19349> processed [2] files.
+
+Number for requester thread = 3
+Number for resolver thread = 3
+Total run time: [403856] ticks
+Thread <19857> processed [2] files.
+Thread <19858> processed [2] files.
+Thread <19859> processed [1] files.
+
+Number for requester thread = 5
+Number for resolver thread = 5
+Total run time: [252918] ticks
+Thread <19956> processed [1] files.
+Thread <19957> processed [1] files.
+Thread <19960> processed [1] files.
+Thread <19959> processed [1] files.
+Thread <19958> processed [1] files.
+
+Number for requester thread = 8
+Number for resolver thread = 5
+Total run time: [239150] ticks
+Thread <20120> processed [0] files.
+Thread <20119> processed [0] files.
+Thread <20118> processed [0] files.
+Thread <20114> processed [1] files.
+Thread <20115> processed [1] files.
+Thread <20121> processed [1] files.
+Thread <20116> processed [1] files.
+Thread <20117> processed [1] files.
